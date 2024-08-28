@@ -5,6 +5,11 @@ I’m currently working as a UX Designer at onsemi. I’m currently pursuing a m
 
 Outside of work, baking is more than just a hobby – it’s a way for me to share joy through sweet treats and find a perfect escape from any stressful moments. Additionally, I love camping and immersing myself in nature. Whether at home or in the office, I find inspiration in the scenes outside my window.
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/eunychun"
+
 <!--
 **eunychun/eunychun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
